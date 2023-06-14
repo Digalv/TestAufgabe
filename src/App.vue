@@ -79,7 +79,7 @@ export default {
   }
   .table {
     border-collapse: collapse;
-    width: 80%; /* Укажите желаемую ширину здесь */
+    width: 80%; 
     padding: 0;
     margin: 0
   }
@@ -93,7 +93,7 @@ export default {
   }
 
   .header{
-    background-color: rgba(0, 0, 0, 0.3); /* 0.5 - полупрозрачный */
+    background-color: rgba(0, 0, 0, 0.3); 
     font-weight: bold;
     font-size: 20px;
   }
